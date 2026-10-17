@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+dataset/*
+!dataset/.gitkeep
